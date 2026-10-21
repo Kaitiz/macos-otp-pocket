@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.2 — 2026-10-21
+
+### Added
+- Dark Mode setting (Settings → Display). Off by default.
+
+### Changed
+- The app is now distributed as a DMG: open it and drag OTP Pocket onto Applications.
+- In-app updates download the DMG.
+
 ## 1.1 — 2026-10-21
 
 First public release.

@@ -30,7 +30,7 @@
 - **Backups** — automatic daily backups, optional encrypted backups to Google Drive.
 - **App Lock** — Touch ID or Mac password.
 - **Private clipboard** — copied codes are hidden from clipboard managers and cleared after 60 seconds.
-- **Automatic updates** from GitHub, in English or Vietnamese.
+- **Automatic updates** from GitHub, light or dark appearance, in English or Vietnamese.
 
 <p align="center">
 <picture>
@@ -44,7 +44,7 @@
 </p>
 
 ### Install
-1. Download `OTP-Pocket-x.y.zip` from [Releases](https://github.com/Kaitiz/macos-otp-pocket/releases/latest), unzip it and move **OTP Pocket** to **Applications**.
+1. Download `OTP-Pocket-x.y.dmg` from [Releases](https://github.com/Kaitiz/macos-otp-pocket/releases/latest), open it and drag **OTP Pocket** onto the **Applications** shortcut.
 2. The app isn't notarized by Apple, so macOS blocks it the first time. Open **System Settings → Privacy & Security**, scroll down and click **Open Anyway**.
 
 Requires macOS 14 Sonoma or later (Apple Silicon and Intel).
@@ -61,7 +61,7 @@ Requires macOS 14 Sonoma or later (Apple Silicon and Intel).
 - **Sao lưu** — tự sao lưu mỗi ngày, có thể sao lưu mã hoá lên Google Drive.
 - **Khoá app** — bằng Touch ID hoặc mật khẩu máy Mac.
 - **Clipboard riêng tư** — mã đã chép không bị trình quản lý clipboard lưu lại và tự xoá sau 60 giây.
-- **Tự cập nhật** từ GitHub, giao diện tiếng Việt hoặc tiếng Anh.
+- **Tự cập nhật** từ GitHub, giao diện sáng hoặc tối, tiếng Việt hoặc tiếng Anh.
 
 <p align="center">
 <picture>
@@ -75,7 +75,7 @@ Requires macOS 14 Sonoma or later (Apple Silicon and Intel).
 </p>
 
 ### Cài đặt
-1. Tải `OTP-Pocket-x.y.zip` ở mục [Releases](https://github.com/Kaitiz/macos-otp-pocket/releases/latest), giải nén và kéo **OTP Pocket** vào **Applications**.
+1. Tải `OTP-Pocket-x.y.dmg` ở mục [Releases](https://github.com/Kaitiz/macos-otp-pocket/releases/latest), mở ra và kéo **OTP Pocket** vào lối tắt **Applications**.
 2. App chưa được Apple notarize nên macOS chặn ở lần mở đầu. Vào **Cài đặt hệ thống → Quyền riêng tư & Bảo mật**, kéo xuống dưới và bấm **Vẫn mở**.
 
 Yêu cầu macOS 14 Sonoma trở lên (Apple Silicon và Intel).
