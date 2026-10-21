@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3 — 2026-10-22
+
+- Performance optimizations: smoother, faster scrolling in the OTP list.
+
 ## 1.2 — 2026-10-22
 
 ### Security
