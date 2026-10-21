@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.1 — 2026-10-22
+
+- New option in Settings → Shortcuts: when the QR shortcut finds an OTP code, add it straight to the vault. Other QR content is still shown and copied as before.
+
 ## 1.3 — 2026-10-22
 
 - Performance optimizations: smoother, faster scrolling in the OTP list.
