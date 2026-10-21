@@ -1,30 +1,16 @@
 # Changelog
 
-## 1.2 — 2026-10-21
-
-### Added
-- Dark Mode setting (Settings → Display). Off by default.
-
-### Changed
-- The app is now distributed as a DMG: open it and drag OTP Pocket onto Applications.
-- In-app updates download the DMG.
-
 ## 1.1 — 2026-10-21
 
 First public release.
 
-### Added
-- Sort menu next to the search bar: Alphabetical, Recently Added, Recently Used.
-- App Lock option to lock only when the app is relaunched.
-- Option to keep the Dock icon when closing the main window.
-- About tab with author info, project link and in-app updates from GitHub.
-- English and Vietnamese interface.
-- Redesigned Settings, menu bar menu and quick search panel.
-- Option to turn off window selection (Space) when scanning QR codes on screen.
-
-### Changed
-- Vault is stored in a hidden `.OTP Pocket` folder in iCloud Drive by default.
-- Google Drive backups are kept in the app's hidden data folder.
-
-### Fixed
-- Crash when relaunching after changing the language.
+- TOTP codes with SHA1/SHA256/SHA512, 6–8 digits and custom periods.
+- Add accounts by scanning a QR code on screen, from images, or by importing backups from Aegis, 2FAS, Bitwarden, Proton, Raivo and more.
+- Quick search from a global shortcut or the menu bar icon; press Enter to copy the code.
+- Sort by name, recently added or recently used.
+- One AES-256 encrypted vault in a hidden iCloud Drive folder (or a folder you choose), synced across your Macs.
+- Automatic daily backups and optional encrypted backups to Google Drive.
+- App Lock with Touch ID or your Mac password.
+- Light and dark appearance, English and Vietnamese.
+- In-app updates from GitHub.
+- Restore default settings from Settings → General.
