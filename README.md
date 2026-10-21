@@ -9,7 +9,14 @@
   <a href="https://github.com/Kaitiz/macos-otp-pocket/releases/latest"><b>Download the latest version</b></a>
 </p>
 
-[English](#english) · [Tiếng Việt](#tiếng-việt)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="screenshots/main-dark.png">
+  <img src="screenshots/main-light.png" width="820" alt="OTP Pocket main window">
+</picture>
+</p>
+
+<p align="center"><a href="#english">English</a> · <a href="#tiếng-việt">Tiếng Việt</a></p>
 
 ---
 
@@ -24,6 +31,17 @@
 - **App Lock** — Touch ID or Mac password.
 - **Private clipboard** — copied codes are hidden from clipboard managers and cleared after 60 seconds.
 - **Automatic updates** from GitHub, in English or Vietnamese.
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="screenshots/quick-search-dark.png">
+  <img src="screenshots/quick-search-light.png" width="400" alt="Quick search panel">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="screenshots/settings-dark.png">
+  <img src="screenshots/settings-light.png" width="420" alt="Settings">
+</picture>
+</p>
 
 ### Install
 1. Download `OTP-Pocket-x.y.zip` from [Releases](https://github.com/Kaitiz/macos-otp-pocket/releases/latest), unzip it and move **OTP Pocket** to **Applications**.
@@ -44,6 +62,17 @@ Requires macOS 14 Sonoma or later (Apple Silicon and Intel).
 - **Khoá app** — bằng Touch ID hoặc mật khẩu máy Mac.
 - **Clipboard riêng tư** — mã đã chép không bị trình quản lý clipboard lưu lại và tự xoá sau 60 giây.
 - **Tự cập nhật** từ GitHub, giao diện tiếng Việt hoặc tiếng Anh.
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="screenshots/quick-search-dark.png">
+  <img src="screenshots/quick-search-light.png" width="400" alt="Quick search panel">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="screenshots/settings-dark.png">
+  <img src="screenshots/settings-light.png" width="420" alt="Settings">
+</picture>
+</p>
 
 ### Cài đặt
 1. Tải `OTP-Pocket-x.y.zip` ở mục [Releases](https://github.com/Kaitiz/macos-otp-pocket/releases/latest), giải nén và kéo **OTP Pocket** vào **Applications**.
