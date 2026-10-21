@@ -1,5 +1,20 @@
 # Changelog
 
+## 1.2 — 2026-10-22
+
+### Security
+- Vault header is now authenticated, so tampering with the key information in the synced vault file is detected and ignored.
+- Updates are only installed when signed by the same developer certificate, and the installed app is replaced in a single atomic step.
+- Loosening App Lock settings now requires Touch ID or your Mac password.
+- PIN attempt limits are stored in the Keychain; old Keychain items are cleaned up after migration.
+- Warnings when saving exports or the recovery code to a cloud-synced folder (iCloud Desktop & Documents, Dropbox).
+
+### Improvements
+- Fewer redundant syncs and faster screen QR window selection.
+- Clearer messages when updating from a DMG or a temporary location, and when GitHub rate-limits requests.
+- Screen Recording permission flow and Quick Search hover behavior fixed.
+- Vietnamese wording: "Kho dữ liệu" and "OTP kế tiếp".
+
 ## 1.1 — 2026-10-21
 
 First public release.

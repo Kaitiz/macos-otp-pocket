@@ -57,7 +57,7 @@ Requires macOS 14 Sonoma or later (Apple Silicon and Intel).
 - **Mã TOTP** — SHA1/SHA256/SHA512, 6–8 chữ số, chu kỳ tuỳ ý.
 - **Thêm tài khoản nhanh** — quét QR ở bất kỳ đâu trên màn hình, nhập từ ảnh, hoặc nhập backup từ Aegis, 2FAS, Bitwarden, Proton, Raivo…
 - **Tìm nhanh** — phím tắt toàn hệ thống hoặc icon thanh menu mở ô tìm kiếm, nhấn Enter để chép mã.
-- **Đồng bộ mã hoá** — một kho mã hoá AES-256 trong thư mục ẩn trên iCloud Drive (hoặc thư mục bạn chọn), dùng chung giữa các máy Mac.
+- **Đồng bộ mã hoá** — một kho dữ liệu mã hoá AES-256 trong thư mục ẩn trên iCloud Drive (hoặc thư mục bạn chọn), dùng chung giữa các máy Mac.
 - **Sao lưu** — tự sao lưu mỗi ngày, có thể sao lưu mã hoá lên Google Drive.
 - **Khoá app** — bằng Touch ID hoặc mật khẩu máy Mac.
 - **Clipboard riêng tư** — mã đã chép không bị trình quản lý clipboard lưu lại và tự xoá sau 60 giây.
