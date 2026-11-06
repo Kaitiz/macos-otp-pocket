@@ -23,8 +23,10 @@
 ## English
 
 ### Features
-- **TOTP codes** — SHA1/SHA256/SHA512, 6–8 digits, custom periods.
+- **TOTP and HOTP codes** — SHA1/SHA256/SHA512, 6–8 digits, custom periods or counters.
 - **Add accounts fast** — scan a QR code anywhere on screen, import images, or import backups from Aegis, 2FAS, Bitwarden, Proton, Raivo and more.
+- **Tags** — organize accounts and filter by label.
+- **Auto-fill shortcut** — paste the matching code into an app or website; optional, requires Accessibility permission.
 - **Quick search** — a global shortcut or the menu bar icon opens a search panel; press Enter to copy the code.
 - **Encrypted sync** — one AES-256 encrypted vault in a hidden iCloud Drive folder (or any folder you choose), shared across your Macs.
 - **Backups** — automatic daily backups, optional encrypted backups to Google Drive.
@@ -54,8 +56,10 @@ Requires macOS 14 Sonoma or later (Apple Silicon and Intel).
 ## Tiếng Việt
 
 ### Tính năng
-- **Mã TOTP** — SHA1/SHA256/SHA512, 6–8 chữ số, chu kỳ tuỳ ý.
+- **Mã TOTP và HOTP** — SHA1/SHA256/SHA512, 6–8 chữ số, chu kỳ tuỳ ý hoặc bộ đếm.
 - **Thêm tài khoản nhanh** — quét QR ở bất kỳ đâu trên màn hình, nhập từ ảnh, hoặc nhập backup từ Aegis, 2FAS, Bitwarden, Proton, Raivo…
+- **Nhãn** — gắn nhãn tài khoản và lọc theo nhãn.
+- **Phím tắt gõ mã tự động** — dán mã phù hợp vào app hoặc website; tuỳ chọn, cần quyền Trợ năng.
 - **Tìm nhanh** — phím tắt toàn hệ thống hoặc icon thanh menu mở ô tìm kiếm, nhấn Enter để chép mã.
 - **Đồng bộ mã hoá** — một kho dữ liệu mã hoá AES-256 trong thư mục ẩn trên iCloud Drive (hoặc thư mục bạn chọn), dùng chung giữa các máy Mac.
 - **Sao lưu** — tự sao lưu mỗi ngày, có thể sao lưu mã hoá lên Google Drive.
